@@ -1,5 +1,7 @@
 public class variaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        final int NUMERO = 5;
+        numero = 10;
+        System.out.print(numero);
     }
 }
